@@ -6,7 +6,7 @@
 * [Functional Sets (funsets)](funsets/README.md)
 * [Object-Oriented Sets (objsets)](objsets/README.md)
 * [Huffman Coding (patmat)](patmat/README.md)
-* [Anagrams](forcomp/README.md)
+* [Anagrams (forcomp)](forcomp/README.md)
 
 <a name="prereqs"></a>
 ## Prerequisites

@@ -1,4 +1,6 @@
-# Assignments for Coursera's "Functional Programming in Scala"
+# Functional Programming Principles in Scala
+
+`Course 1 of Coursera's "Functional Programming in Scala" Specialization`
 
 ## Table of Contents
 * [Prerequistes](#prereqs)
